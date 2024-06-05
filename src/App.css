@@ -1,0 +1,17 @@
+.btnLeft {
+  left: 0;
+  position: absolute;
+  bottom: 20%;
+}
+
+.btnRight {
+  right: 0;
+  bottom: 20%;
+  position: absolute;
+}
+
+.btnFinish {
+  right: 0;
+  bottom: 10%;
+  position: absolute;
+}
